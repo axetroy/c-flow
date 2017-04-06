@@ -1,5 +1,7 @@
 # flow
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/axetroy/c-flow.svg)](https://greenkeeper.io/)
+
 concurrency flow contc-flower.
 
 ## Installation
