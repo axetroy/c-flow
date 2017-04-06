@@ -35,10 +35,10 @@ itemList.forEach(function (item) {
   });
 });
 
-flow.run()
-  .then(function () {
-    console.log('Tasks done');
-  });
+flow.run()    // 运行任务
+  .then(function () {
+    console.log('Tasks done'); // 任务已完毕
+  });
 ```
 
 ## 安装
