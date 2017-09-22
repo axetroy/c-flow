@@ -1,5 +1,7 @@
 # flow
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/axetroy/c-flow.svg)](https://greenkeeper.io/)
+
 用于多个异步并发的控制器, 能够控制并发数量.
 
 当前面的任务执行完成之后, 会立刻执行下一个任务. 但是保证并发的数量不变
